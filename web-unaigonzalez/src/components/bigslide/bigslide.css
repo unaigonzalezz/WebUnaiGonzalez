@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Montserrat&display=swap');
+
+.background{
+    margin-top:-18vh;
+    text-align: center;
+    background-image: url('../../img/bigslide.jpg');
+    width: 100%;
+    height: 120vh;
+    
+}
+
+.textSlide{
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    line-height: normal;
+    line-height: 1.8;
+    padding-top: 40vh;
+    background: #CF1D9A;
+    background: linear-gradient(to right, #CF1D9A 0%, #CF6848 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

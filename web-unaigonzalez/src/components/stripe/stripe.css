@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&display=swap');
+
+.stripe{
+    height: 35vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+
+.background{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.stripeText{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 35vh;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    font-family: 'Montserrat', sans-serif;
+}
+
